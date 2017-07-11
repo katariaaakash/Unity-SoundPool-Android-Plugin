@@ -1,0 +1,11 @@
+/build
+/libs
+/res
+/build.gradle
+/proguard-rules.pro
+soundpoolunityliberary.iml
+/src/androidTest
+/src/test
+/src/main/AndroidManifest.xml
+/src/main/res
+
